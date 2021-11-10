@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @ahmedalshebeni
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ahmedalshebeni/ahmedalshebeni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Mobile Developer
+.....Iam a Flutter Developer who can make your dream app becomes reality
+....i have shifted my career recently from Embedded Software engineering to flutter so i know how to make your app as lighter and fast as it could and more reliable
